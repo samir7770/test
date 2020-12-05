@@ -1,0 +1,43 @@
+
+
+.banner{}
+
+
+.container{
+	width: 800px;
+	margin: auto;
+}
+.msn{
+	color: red;
+}
+.info{
+	font-size: 50px;
+	color: #B11A26;
+}
+.uni{
+	color: purple;
+}
+.heading{
+	background-color: bisque;
+}
+h1{
+	  font-size: 50px;
+    padding: 15px 25px;
+    text-align: center;
+}
+.gallery-text{
+	font-size: 18px;
+    padding: 0 15px;
+    text-align: center;
+}
+.post{
+	padding: 10px;
+	height: 300px;
+	float: left;
+	width: 30%;
+}
+img{
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0px 0px 8px 1px #0000006e;
+}
